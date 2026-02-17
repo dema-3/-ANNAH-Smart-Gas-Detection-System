@@ -78,7 +78,4 @@ ANNAH-Smart-Gas-Detection-System/
 - Calibration wizard + adaptive thresholding
 - Enclosure + battery safety improvements
 
----
 
-If you use this repository in your portfolio, keep it honest:
-**“Recreated prototype after the competition for documentation and learning.”**
