@@ -1,12 +1,8 @@
 # ANNAH (ANAA) — Smart Gas Detection System 
 > لا تدع الغاز يسرق أنفاسك
-> ## 🖼️ Project Poster
-
 ## 🖼️ Project Poster
 
-![ANNAH Poster](images/annah-poster.png)
-
-📄 [Download Full Poster (PDF)](docs/ANNAH_poster.pdf)
+[Click here to view the full poster (PDF)](docs/ANNAH_poster.pdf)
 
 
 **ANNAH** is a smart gas detection prototype I built for a Jordanian university student competition during **Global Entrepreneurship Week (GEW)**.
